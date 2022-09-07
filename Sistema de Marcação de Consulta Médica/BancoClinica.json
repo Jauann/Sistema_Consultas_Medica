@@ -1,0 +1,17 @@
+{
+ "1": {
+  "CNPJ": "1",
+  "nome": "Sua Sa\u00fade",
+  "endereco": "Jabot\u00e3o dos Guararapes"
+ },
+ "111": {
+  "CNPJ": "111",
+  "nome": "Cruz Vermelha",
+  "endereco": "Paulista"
+ },
+ "222": {
+  "CNPJ": "222",
+  "nome": "Sempre Sa\u00fade",
+  "endereco": "Cabo de Santo Agostinho"
+ }
+}

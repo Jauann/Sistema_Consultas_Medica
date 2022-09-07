@@ -1,0 +1,16 @@
+{
+ "1": {
+  "CPF": "1",
+  "nome": "Alucard",
+  "email": "Alucard@anime.com",
+  "telefone": "(87)981235687",
+  "endereco": "Konoha"
+ },
+ "999": {
+  "CPF": "999",
+  "nome": "Jo\u00e3o",
+  "email": "Joaoantonio@gmail.com",
+  "telefone": "(81)99992020",
+  "endereco": "Uast"
+ }
+}

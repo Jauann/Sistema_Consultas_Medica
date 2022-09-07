@@ -1,0 +1,27 @@
+Disciplina: Introdução a programação
+Semestre: 2021.1
+Docente: Zildomar Felix
+Discentes: Jauann Dremelly Souza
+           
+
+Projeto de Implementação em Python
+
+
+ A aplicação foi feita a partir da carência de um sistema para marcação de
+consultas. Na aplicação, os controladores foram utilizados para funcionamento do
+sistema e tiveram auxílio do acrônico do CRUD (create, read, update, delete). O menu
+“paciente” é parte da aplicação destinada ao paciente, sejam elas, cadastro de paciente,
+busca, exclusão, todas executadas a partir de funções. No menu “marcação de
+consultas” é a parte de principal importância da aplicação, é onde ficará a função de
+marcar consultas. Ademais existem algumas outras funções, que elas como um todo
+trabalham no funcionamento da aplicação. O objetivo da aplicação é de que a partir de
+um cadastro de paciente que será fornecido diante de, nome, CPF, e-mail, endereço e
+telefone, um cadastro médico feito perante nome, CRM, e-mail e especialidade, um para
+o funcionário que é solicitado, nome, CPF e matrícula, e por fim clínica, tendo isso, a
+marcação de consultas poderá ser feita, as consultas ocorrerão com adição bancos feitos
+a partir de arquivos físicos (.json), Existe arquivos físicos JSON para cada controlador,
+onde é armazenado dados e informações dos registros. Existe um banco para cada base
+de dados, são elas; clinicas, consultas, funcionários, médicos e pacientes. E nos
+controladores existem funções que possibilitam a leitura, o carregamento e a gravação
+dos dados nesses arquivos, em casos de necessidades especiais ou exceções serão feitas
+observações.

@@ -1,0 +1,16 @@
+{
+ "1": {
+  "CRM": "1",
+  "nome": "Alaba",
+  "email": "Alaba@gmail.com",
+  "especialidade": "Cardiologia",
+  "clinica": "Cruz Vermelha"
+ },
+ "2": {
+  "CRM": "2",
+  "nome": "Mendy",
+  "email": "Mendy@gmail.com",
+  "especialidade": "Neurologia",
+  "clinica": "Sua Sa\u00fade"
+ }
+}
